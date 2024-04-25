@@ -3,7 +3,8 @@
 ## <center> Оглавление
 1. [Опиcание проекта](#описание-проекта)
 2. [Описание данных](#описание-данных)
-3.
+3. [Авторы](#авторы)
+4. [Выводы](#выводы)
 
 ## Описание проекта
 **Дана** [база_1](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing) И [база_2](https://lms-cdn.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip) резюме, выгруженная с сайта поиска вакансий hh.ru. 
@@ -48,7 +49,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/SkillfactoryDS/DataCleaningProject
+git clone https://github.com/ZlatanSU87/HH_Data_Analytics
 ```
 
 ## Использование
